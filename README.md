@@ -12,6 +12,8 @@
 
 의존 유틸/DB 모듈(경로 예: `../utils/poe`, `../db/mongodb`)은 상위 경로에 존재합니다.
 
+*util의 경우 보안상 이 레포에 존재하지 않습니다
+
 ---
 
 ## 환경 변수
@@ -27,9 +29,6 @@
 - `POE_POLL_INTERVAL_MS` (기본 15000): 폴링 간격(ms)
 - `POE_POLL_LOOKBACK_MS` (기본 24h): 폴링 대상 조회 기간(ms)
 - `POE_POLL_LIMIT` (기본 500): 폴링 시 조회 제한 개수
-
-보안상 `XRPL_SEED` 등 비밀 값은 안전하게 보관하세요.
-
 ---
 
 ## API 개요 (`routes/poeRoutes.js`)
