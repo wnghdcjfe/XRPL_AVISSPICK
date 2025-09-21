@@ -132,6 +132,12 @@ app.use(express.json());
 app.use("/api/poe", require("./routes/poeRoutes"));
 ```
 
+## XRPL앵커링관련 스샷
+<img width="2314" height="770" alt="스크린샷 2025-09-21 오후 1 21 28" src="https://github.com/user-attachments/assets/c340927b-fc04-4160-b23e-350000eba6c6" />
+
+<img width="2294" height="776" alt="스크린샷 2025-09-21 오후 1 21 36" src="https://github.com/user-attachments/assets/481ffa46-a38f-4ac3-a6d9-9e4dfeb03264" />
+
+
 ## 주의사항 
 어비스픽 프로덕션 코드와 연결되어있는 부분들이 있어 해당 부분을 제외한 XRPL 부분만을 추출한 코드입니다. 참고부탁드립니다.
 
