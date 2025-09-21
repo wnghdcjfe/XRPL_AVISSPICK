@@ -135,6 +135,7 @@ app.use("/api/poe", require("./routes/poeRoutes"));
 <img width="2314" height="770" alt="스크린샷 2025-09-21 오후 1 21 28" src="https://github.com/user-attachments/assets/c340927b-fc04-4160-b23e-350000eba6c6" />
 
 <img width="2294" height="776" alt="스크린샷 2025-09-21 오후 1 21 36" src="https://github.com/user-attachments/assets/481ffa46-a38f-4ac3-a6d9-9e4dfeb03264" />
+<img width="1640" height="826" alt="스크린샷 2025-09-21 오후 1 38 34" src="https://github.com/user-attachments/assets/42c8f43d-34ea-4714-9840-a8507ede133c" />
 
 
 ## 주의사항 
